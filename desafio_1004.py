@@ -15,3 +15,10 @@ caso contrário seu programa apresentará a mensagem: "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1004
 
 # Escreva sua solução abaixo
+
+n1 = int(input("Digite um numero: "))
+n2 = int(input("Digite um numero: "))
+
+PROD = n1 * n2
+
+print(PROD)
