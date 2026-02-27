@@ -12,3 +12,10 @@ você receberá "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
 # Escreva sua solução abaixo
+
+n1 = int(input("Digite um numero: "))
+n2 = int(input("Digite um numero: "))
+
+r = n1 + n2
+
+print(r)
