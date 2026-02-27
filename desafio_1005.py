@@ -18,3 +18,11 @@ de imprimir o fim de linha após o resultado, caso contrário, você receberá
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1005
 
 # Escreva sua solução abaixo
+
+n1 = float(input("Digite um numero: "))
+n2 = float(input("Digite um numero: "))
+
+MEDIA1 = n1 * 3.5
+MEDIA2 = n2 * 7.5
+MEDIA3 = MEDIA1 + MEDIA2 
+print(MEDIA3 / 11)
